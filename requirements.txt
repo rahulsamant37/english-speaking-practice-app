@@ -1,0 +1,6 @@
+langchain_groq
+pyaudio
+pyttsx3
+wavio
+whisper-ctranslate2
+python-dotenv
